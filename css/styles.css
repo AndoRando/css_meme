@@ -1,0 +1,28 @@
+.image {
+  position: relative;
+  width: 937px;
+  height: 518px;
+}
+
+img {
+  position: absolute;
+}
+
+h1 {
+  font-size: 3em;
+  position: relative;
+  color: white;
+  text-shadow: 0 0 5px black;
+  font-family: impact;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.top {
+  padding-top: 40px;
+}
+
+.bottom {
+  padding-top: 325px;
+}
